@@ -58,3 +58,10 @@ Tendrás a tu disposición tanto el apartado de escritorio como el móvil.
 
 ### Reporte de ventas por tienda
 ![App Screenshot](https://raw.githubusercontent.com/joao034/ProyectoPedidos/master/images/reporte3.png)
+
+## Technologies
+***
+A list of technologies used within the project:
+* [.NET](https://example.com): Version 12.3 
+* [Xamarin](https://example.com): Version 2.34
+
