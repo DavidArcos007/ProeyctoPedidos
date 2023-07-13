@@ -8,7 +8,7 @@ El sistema distrubuido fue desarrollado bajo tecnología Microsoft, .Net y Xamar
 Puedes clonar el repositorio con el comando:
 
 ```bash
-  https://github.com/joao034/ProyectoPedidos.git
+ https://github.com/DavidArcos007/ProeyctoPedidos.git
 ```
 Tendrás a tu disposición tanto el apartado de escritorio como el móvil.
 
