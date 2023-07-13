@@ -14,9 +14,10 @@ Tendrás a tu disposición tanto el apartado de escritorio como el móvil.
 
 ## Desarrollado por:
 
+- [@DavidArcos007](https://github.com/DavidArcos007)
 - [@mmartinezu](https://github.com/mmartinezu)
 - [@joao034](https://github.com/joao034)
-- [@jarcos4997](https://github.com/DavidArcos007)
+
 
 
 
